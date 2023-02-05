@@ -22,3 +22,32 @@ PORT    STATE SERVICE
 143/tcp open  imap
 443/tcp open  https
 993/tcp open  imaps
+
+> nmap -sC 192.168.1.96
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-23 14:59 CET
+Nmap scan report for BornToSecHackMe.wind3.hub (192.168.1.96)
+Host is up (0.0089s latency).
+Not shown: 994 closed ports
+PORT    STATE SERVICE
+21/tcp  open  ftp
+|_ftp-anon: got code 500 "OOPS: vsftpd: refusing to run with writable root inside chroot()".
+22/tcp  open  ssh
+| ssh-hostkey:
+|   1024 07:bf:02:20:f0:8a:c8:48:1e:fc:41:ae:a4:46:fa:25 (DSA)
+|   2048 26:dd:80:a3:df:c4:4b:53:1e:53:42:46:ef:6e:30:b2 (RSA)
+|_  256 cf:c3:8c:31:d7:47:7c:84:e2:d2:16:31:b2:8e:63:a7 (ECDSA)
+80/tcp  open  http
+|_http-title: Hack me if you can
+143/tcp open  imap
+|_imap-capabilities: LOGINDISABLEDA0001 ENABLE have IMAP4rev1 STARTTLS listed post-login capabilities more OK IDLE ID Pre-login SASL-IR LITERAL+ LOGIN-REFERRALS
+|_ssl-date: 2023-01-23T13:59:27+00:00; +1s from scanner time.
+443/tcp open  https
+|_http-title: 404 Not Found
+| ssl-cert: Subject: commonName=BornToSec
+| Not valid before: 2015-10-08T00:19:46
+|_Not valid after:  2025-10-05T00:19:46
+|_ssl-date: 2023-01-23T13:59:24+00:00; 0s from scanner time.
+993/tcp open  imaps
+|_ssl-date: 2023-01-23T13:59:24+00:00; +1s from scanner time.
+
+
