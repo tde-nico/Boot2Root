@@ -72,3 +72,7 @@ PORT    STATE SERVICE
 993/tcp open  imaps
 
 
+open the web browser and try to go to https://192.168.1.96/forum/
+
+we see "Probleme login ?"
+
