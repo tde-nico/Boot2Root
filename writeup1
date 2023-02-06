@@ -10,6 +10,7 @@ PORT    STATE SERVICE
 443/tcp open  https
 993/tcp open  imaps
 
+
 > nmap -p- 192.168.1.96
 Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-23 14:30 CET
 Nmap scan report for BornToSecHackMe.wind3.hub (192.168.1.96)
@@ -22,6 +23,7 @@ PORT    STATE SERVICE
 143/tcp open  imap
 443/tcp open  https
 993/tcp open  imaps
+
 
 > nmap -sC 192.168.1.96
 Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-23 14:59 CET
@@ -49,5 +51,24 @@ PORT    STATE SERVICE
 |_ssl-date: 2023-01-23T13:59:24+00:00; 0s from scanner time.
 993/tcp open  imaps
 |_ssl-date: 2023-01-23T13:59:24+00:00; +1s from scanner time.
+
+
+> nmap 192.168.1.96 --script=http-enum
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-23 15:03 CET
+Nmap scan report for BornToSecHackMe.wind3.hub (192.168.1.96)
+Host is up (0.0039s latency).
+Not shown: 994 closed ports
+PORT    STATE SERVICE
+21/tcp  open  ftp
+22/tcp  open  ssh
+80/tcp  open  http
+143/tcp open  imap
+443/tcp open  https
+| http-enum:
+|   /forum/: Forum
+|   /phpmyadmin/: phpMyAdmin
+|   /webmail/src/login.php: squirrelmail version 1.4.22
+|_  /webmail/images/sm_logo.png: SquirrelMail
+993/tcp open  imaps
 
 
