@@ -153,3 +153,9 @@ dovenull:x:109:65534:Dovecot login user,,,:/nonexistent:/bin/false
 postfix:x:110:118::/var/spool/postfix:/bin/false
 
 but no password is shown
+
+so we search in the file system until we founf a dir named LOOKATME in the home directory
+
+there it is a file named password that contains lmezard:G!@M6f4Eatau{sF"
+
+we can now connect via ftp!
