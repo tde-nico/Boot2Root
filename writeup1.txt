@@ -159,3 +159,9 @@ so we search in the file system until we founf a dir named LOOKATME in the home 
 there it is a file named password that contains lmezard:G!@M6f4Eatau{sF"
 
 we can now connect via ftp!
+
+we find a README and a "fun" file that we download
+
+in README we have:
+Complete this little challenge and use the result as password for user 'laurie' to login in ssh
+
