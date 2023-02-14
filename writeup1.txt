@@ -165,3 +165,8 @@ we find a README and a "fun" file that we download
 in README we have:
 Complete this little challenge and use the result as password for user 'laurie' to login in ssh
 
+then we use "file fun": POSIX tar archive (GNU)
+so "mv fun fun.tar" and "tar -xf fun.tar"
+
+we obtain a directory filled with a lot of files, but if we "ls -la" we notice that "BJPCP.pcap" is really heavy so we open it with vim to see and we find out that there are some functions named "getmeX" where X is a number that compose the password
+
