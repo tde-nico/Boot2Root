@@ -197,3 +197,19 @@ BJPCP.pcap:     printf("%c",getme11());
 BJPCP.pcap:     printf("%c",getme12());
 G7Y8I.pcap:char getme2() {
 
+
+Now we search:
+cat * | grep ".*ret.*"
+
+//file483       return 'a';
+//file697       return 'I';
+        return 'w';
+        return 'n';
+        return 'a';
+        return 'g';
+        return 'e';
+//file161       return 'e';
+//file252       return 't';
+//file163       return 'p';
+//file640       return 'r';
+//file3 return 'h';
