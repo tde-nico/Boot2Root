@@ -170,3 +170,30 @@ so "mv fun fun.tar" and "tar -xf fun.tar"
 
 we obtain a directory filled with a lot of files, but if we "ls -la" we notice that "BJPCP.pcap" is really heavy so we open it with vim to see and we find out that there are some functions named "getmeX" where X is a number that compose the password
 
+so we can use "cat * | grep -R getme" to get the other getme
+
+0T16C.pcap:char getme4() {
+32O0M.pcap:char getme7() {
+331ZU.pcap:char getme1() {
+4KAOH.pcap:char getme5() {
+91CD0.pcap:char getme6() {
+B62N4.pcap:char getme3() {
+BJPCP.pcap:char getme8() {
+BJPCP.pcap:char getme9() {
+BJPCP.pcap:char getme10() {
+BJPCP.pcap:char getme11() {
+BJPCP.pcap:char getme12()
+BJPCP.pcap:     printf("%c",getme1());
+BJPCP.pcap:     printf("%c",getme2());
+BJPCP.pcap:     printf("%c",getme3());
+BJPCP.pcap:     printf("%c",getme4());
+BJPCP.pcap:     printf("%c",getme5());
+BJPCP.pcap:     printf("%c",getme6());
+BJPCP.pcap:     printf("%c",getme7());
+BJPCP.pcap:     printf("%c",getme8());
+BJPCP.pcap:     printf("%c",getme9());
+BJPCP.pcap:     printf("%c",getme10());
+BJPCP.pcap:     printf("%c",getme11());
+BJPCP.pcap:     printf("%c",getme12());
+G7Y8I.pcap:char getme2() {
+
