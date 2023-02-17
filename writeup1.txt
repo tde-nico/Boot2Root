@@ -240,3 +240,9 @@ o
 
 NO SPACE IN THE PASSWORD (password is case sensitive).
 
+
+> gdb bomb
+(gdb) disass main
+...
+(gdb) disass phase_1
+...
