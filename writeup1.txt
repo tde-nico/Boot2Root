@@ -226,3 +226,6 @@ SHA2-256(stdin)= 330b845f32185747e4f8ca15d40ca59796035c89ea809fb5d30f4da83ecf45a
 > ls
 bomb  README
 
+> cat README
+Diffuse this bomb!
+When you have all the password use it as "thor" user with ssh.
