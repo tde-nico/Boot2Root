@@ -246,3 +246,8 @@ NO SPACE IN THE PASSWORD (password is case sensitive).
 ...
 (gdb) disass phase_1
 ...
+
+we can see that is a simple string compare
+
+(gdb) x /s 0x80497c0
+0x80497c0:      "Public speaking is very easy."
