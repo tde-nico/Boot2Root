@@ -258,3 +258,8 @@ we can see that is a simple string compare
 ...
 we can see that this funxtions compares the current number with the previous multiplied by his index incremented so if we can try;
 1 2 6 24 120 720
+
+(gdb) disass phase_3
+...
+we can see that comares the input values like a switch case, where the value of the second is used to compare the third, with the hints we know that the second value is 'b' so the third will be 0xD6 so we can try:
+1 b 214
