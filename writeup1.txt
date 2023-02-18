@@ -251,3 +251,10 @@ we can see that is a simple string compare
 
 (gdb) x /s 0x80497c0
 0x80497c0:      "Public speaking is very easy."
+
+(gdb) disass phase_2
+...
+(gdb) disass read_six_numbers
+...
+we can see that this funxtions compares the current number with the previous multiplied by his index incremented so if we can try;
+1 2 6 24 120 720
