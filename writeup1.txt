@@ -266,3 +266,9 @@ we can see that comares the input values like a switch case, where the value of 
 
 for the phase 4 it requires a number that summed with his previous is equal to 55 so:
 9
+
+the phase_5 take every letter of a given string and inverts the bit and then it compares the resulting string with giants:
+it can be:
+	opekma
+	opekmq
+	opukmq
