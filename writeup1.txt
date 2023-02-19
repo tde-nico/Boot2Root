@@ -288,3 +288,6 @@ after the log in we find:
 > ls
 README  turtle
 
+> cat README
+Finish this challenge and use the result as password for 'zaz' user.
+
