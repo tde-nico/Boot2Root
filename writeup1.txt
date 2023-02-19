@@ -276,3 +276,11 @@ it can be:
 as we can see in the phase_6 it is requesting the sorted numbers of some global variable that results in:
 4 2 6 3 1 5
 
+
+so according to the readme the final password for "thor" is:
+because of the phase 5 we have these three:
+	Publicspeakingisveryeasy.126241207201b2149opekma426135
+	Publicspeakingisveryeasy.126241207201b2149opekmq426135
+	Publicspeakingisveryeasy.126241207201b2149opukmq426315
+but the second one is the correct one
+
