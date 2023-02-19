@@ -284,3 +284,7 @@ because of the phase 5 we have these three:
 	Publicspeakingisveryeasy.126241207201b2149opukmq426315
 but the second one is the correct one
 
+after the log in we find:
+> ls
+README  turtle
+
