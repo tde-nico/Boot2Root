@@ -272,3 +272,7 @@ it can be:
 	opekma
 	opekmq
 	opukmq
+
+as we can see in the phase_6 it is requesting the sorted numbers of some global variable that results in:
+4 2 6 3 1 5
+
