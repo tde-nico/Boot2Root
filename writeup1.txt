@@ -291,3 +291,7 @@ README  turtle
 > cat README
 Finish this challenge and use the result as password for 'zaz' user.
 
+turtle instead is a file filled with some instructions that seems hte python turlte instructions.
+after writing a simple script we notice that the turtle writes the word:
+SLASH
+
