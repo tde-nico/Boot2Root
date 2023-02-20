@@ -295,3 +295,10 @@ turtle instead is a file filled with some instructions that seems hte python tur
 after writing a simple script we notice that the turtle writes the word:
 SLASH
 
+we can try to encode it:
+
+MD5:		646da671ca01bb5d84dbb5fb2238dc8e
+SHA-1:		045db3637ddba59088ac97a1cabc374013dc7d0e
+SHA-256:	2f4f10058af817252c4a9bc174d7b729538079f84f02a74160b3a42162d53e02
+SHA-512:	a7b12c6323410b589f66a83c38025b88f51018eadc7635ec6d6ee8a5f3a6b0af0064155f4500c73a236208a12b387c3cdcd0792bb8e8c10038344e0f56275736
+
