@@ -318,3 +318,8 @@ test
 ...
    0x08048420 <+44>:    call   0x8048300 <strcpy@plt>
 ...
+
+according to https://mrr3b00t.medium.com/buffer-overflow-abusing-eip-control-1d8e1934570e
+we can create a big file with https://zerosum0x0.blogspot.com/2016/11/overflow-exploit-pattern-generator.html
+so we find it with offset 140 at "Ae7A"
+
