@@ -323,3 +323,6 @@ according to https://mrr3b00t.medium.com/buffer-overflow-abusing-eip-control-1d8
 we can create a big file with https://zerosum0x0.blogspot.com/2016/11/overflow-exploit-pattern-generator.html
 so we find it with offset 140 at "Ae7A"
 
+now we can try to find the "sh" process with
+(gdb) info proc map
+process 2210
