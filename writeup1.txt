@@ -312,3 +312,9 @@ explit_me  mail
 
 > ./exploit_me test
 test
+
+> gdb exploit_me
+(gdb) disass main
+...
+   0x08048420 <+44>:    call   0x8048300 <strcpy@plt>
+...
