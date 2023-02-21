@@ -304,9 +304,11 @@ SHA-512:	a7b12c6323410b589f66a83c38025b88f51018eadc7635ec6d6ee8a5f3a6b0af0064155
 
 the "md5" is the correct one
 
+
 in zaz's home we find:
 
 > ls
 explit_me  mail
 
-
+> ./exploit_me test
+test
