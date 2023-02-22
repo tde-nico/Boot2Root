@@ -350,3 +350,7 @@ Mapped address spaces:
 (gdb) info function system
 All functions matching regular expression "system":
 
+Non-debugging symbols:
+0xb7e6b060  __libc_system
+0xb7e6b060  system
+0xb7f49550  svcerr_systemerr
