@@ -343,3 +343,6 @@ Mapped address spaces:
         0xb7fff000 0xb8000000     0x1000    0x20000 /lib/i386-linux-gnu/ld-2.15.so
         0xbffda000 0xc0000000    0x26000        0x0 [stack]
 
+(gdb) find 0xb7e2c000,0xb7fcf000,"/bin/sh"
+0xb7f8cc58
+1 pattern found.
