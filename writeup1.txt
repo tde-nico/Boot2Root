@@ -346,3 +346,7 @@ Mapped address spaces:
 (gdb) find 0xb7e2c000,0xb7fcf000,"/bin/sh"
 0xb7f8cc58
 1 pattern found.
+
+(gdb) info function system
+All functions matching regular expression "system":
+
