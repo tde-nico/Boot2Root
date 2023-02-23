@@ -369,3 +369,6 @@ Non-debugging symbols:
 0xb7f2dc10  __cyg_profile_func_exit
 0xb7f4c750  svc_exit
 0xb7f56c80  atexit
+
+we can concatenate system, exit and /bin/sh
+in python we do:
