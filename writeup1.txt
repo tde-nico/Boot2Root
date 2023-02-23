@@ -358,3 +358,14 @@ Non-debugging symbols:
 (gdb) info function exit
 All functions matching regular expression "exit":
 
+Non-debugging symbols:
+0xb7e5ebe0  exit
+0xb7e5ec10  on_exit
+0xb7e5ee20  __cxa_atexit
+0xb7e5efc0  quick_exit
+0xb7e5eff0  __cxa_at_quick_exit
+0xb7ee41d8  _exit
+0xb7f28500  pthread_exit
+0xb7f2dc10  __cyg_profile_func_exit
+0xb7f4c750  svc_exit
+0xb7f56c80  atexit
