@@ -354,3 +354,7 @@ Non-debugging symbols:
 0xb7e6b060  __libc_system
 0xb7e6b060  system
 0xb7f49550  svcerr_systemerr
+
+(gdb) info function exit
+All functions matching regular expression "exit":
+
