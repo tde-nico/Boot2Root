@@ -23,4 +23,10 @@ PORT    STATE SERVICE
 443/tcp open  https
 993/tcp open  imaps
 
+> nmap -sC 192.168.1.96
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-23 14:59 CET
+Nmap scan report for BornToSecHackMe.wind3.hub (192.168.1.96)
+Host is up (0.0089s latency).
+Not shown: 994 closed ports
+PORT    STATE SERVICE
 
