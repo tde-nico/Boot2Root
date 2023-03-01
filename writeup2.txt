@@ -50,3 +50,5 @@ PORT    STATE SERVICE
 993/tcp open  imaps
 |_ssl-date: 2023-01-23T13:59:24+00:00; +1s from scanner time.
 
+
+> nmap 192.168.1.96 --script=http-enum
