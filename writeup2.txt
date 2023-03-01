@@ -57,3 +57,14 @@ Nmap scan report for BornToSecHackMe.wind3.hub (192.168.1.96)
 Host is up (0.0039s latency).
 Not shown: 994 closed ports
 PORT    STATE SERVICE
+21/tcp  open  ftp
+22/tcp  open  ssh
+80/tcp  open  http
+143/tcp open  imap
+443/tcp open  https
+| http-enum:
+|   /forum/: Forum
+|   /phpmyadmin/: phpMyAdmin
+|   /webmail/src/login.php: squirrelmail version 1.4.22
+|_  /webmail/images/sm_logo.png: SquirrelMail
+993/tcp open  imaps
