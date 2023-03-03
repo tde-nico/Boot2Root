@@ -71,3 +71,5 @@ PORT    STATE SERVICE
 
 open the web browser and try to go to https://192.168.1.96/forum/
 
+we see "Probleme login ?"
+
