@@ -68,3 +68,6 @@ PORT    STATE SERVICE
 |   /webmail/src/login.php: squirrelmail version 1.4.22
 |_  /webmail/images/sm_logo.png: SquirrelMail
 993/tcp open  imaps
+
+open the web browser and try to go to https://192.168.1.96/forum/
+
