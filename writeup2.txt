@@ -80,3 +80,5 @@ it seems that a password is used as a user
 
 we search up in the rest of the page and we found that the post is posted by Imezard
 
+we try to log in the forum with that password and Success!!
+
