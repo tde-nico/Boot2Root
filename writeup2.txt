@@ -84,3 +84,5 @@ we try to log in the forum with that password and Success!!
 
 Now we can see the profile where we find a mail: laurie@borntosec.net
 
+And at the bottom we ca read powered by "my little forum"
+
