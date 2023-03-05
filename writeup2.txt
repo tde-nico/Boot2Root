@@ -86,3 +86,5 @@ Now we can see the profile where we find a mail: laurie@borntosec.net
 
 And at the bottom we ca read powered by "my little forum"
 
+we can try to connect to https://192.168.1.96/webmail/ with the same password
+
