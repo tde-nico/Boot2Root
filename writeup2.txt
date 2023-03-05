@@ -92,3 +92,5 @@ there we find a mail named "DB Access"
 
 we find these credentials root/Fg-'kKXBj87E:aJ$ witch we can use to log into the phpmyadmin
 
+now we need to inject SQL, with this https://www.hackingarticles.in/shell-uploading-web-server-phpmyadmin/ we have an idea where to start
+
