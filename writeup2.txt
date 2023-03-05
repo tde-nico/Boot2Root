@@ -90,3 +90,5 @@ we can try to connect to https://192.168.1.96/webmail/ with the same password
 
 there we find a mail named "DB Access"
 
+we find these credentials root/Fg-'kKXBj87E:aJ$ witch we can use to log into the phpmyadmin
+
