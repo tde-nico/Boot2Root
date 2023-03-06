@@ -94,3 +94,5 @@ we find these credentials root/Fg-'kKXBj87E:aJ$ witch we can use to log into the
 
 now we need to inject SQL, with this https://www.hackingarticles.in/shell-uploading-web-server-phpmyadmin/ we have an idea where to start
 
+modifyng the command to a linux reverse shell we arrive at:
+
