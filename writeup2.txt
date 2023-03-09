@@ -125,3 +125,5 @@ nc -kl 9001
 and we get the access!!:
 www-data@BornToSecHackMe:/var/www/forum/templates_c$
 
+with "whoami" we can see that we are: www-data
+
