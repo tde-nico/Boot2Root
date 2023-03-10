@@ -138,3 +138,5 @@ https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs
 
 we can use the "dirty.c" exploit in this case so:
 
+> cd /tmp
+
