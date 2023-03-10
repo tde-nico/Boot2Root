@@ -140,3 +140,7 @@ we can use the "dirty.c" exploit in this case so:
 
 > cd /tmp
 
+> cat > dirty.c << EOF
+{PASTE THE CODE}
+EOF
+
