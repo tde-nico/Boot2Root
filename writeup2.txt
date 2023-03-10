@@ -135,3 +135,6 @@ we can find online some cve about linux 3.2, but one of the most famous is "dirt
 we can find aome at:
 https://dirtycow.ninja/
 https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs
+
+we can use the "dirty.c" exploit in this case so:
+
