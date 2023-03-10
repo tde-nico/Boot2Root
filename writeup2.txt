@@ -132,3 +132,6 @@ Linux BornToSecHackMe 3.2.0-91-generic-pae #129-Ubuntu SMP Wed Sep 9 11:27:47 UT
 
 we can find online some cve about linux 3.2, but one of the most famous is "dirty cow"
 
+we can find aome at:
+https://dirtycow.ninja/
+https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs
