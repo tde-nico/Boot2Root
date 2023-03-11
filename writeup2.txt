@@ -144,3 +144,5 @@ we can use the "dirty.c" exploit in this case so:
 {PASTE THE CODE}
 EOF
 
+> gcc dirty.c -o dirty -pthread -lcrypt
+
