@@ -157,4 +157,6 @@ mmap: b7fda000
 madvise 0
 
 ptrace 0
+Done! Check /etc/passwd to see if the new user was created.
+You can log in with the username 'root' and the password 'pass'.
 
