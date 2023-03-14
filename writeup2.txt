@@ -171,3 +171,6 @@ DON'T FORGET TO RESTORE! $ mv /tmp/passwd.bak /etc/passwd
 > su root
 Password: pass
 
+> whoami
+root
+
