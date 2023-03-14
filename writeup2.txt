@@ -165,3 +165,6 @@ DON'T FORGET TO RESTORE! $ mv /tmp/passwd.bak /etc/passwd
 Done! Check /etc/passwd to see if the new user was created.
 You can log in with the username 'root' and the password 'pass'.
 
+
+DON'T FORGET TO RESTORE! $ mv /tmp/passwd.bak /etc/passwd
+
