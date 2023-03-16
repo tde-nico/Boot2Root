@@ -1,2 +1,5 @@
 when starting the machine we can rapidly spam the key {ESC} to access the boot menu (grub)
 so we see:
+
+boot:
+
