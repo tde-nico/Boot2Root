@@ -4,3 +4,7 @@ so we see:
 boot:
 
 pressing {TAB} we se the partitions:
+
+boot:
+ live
+
