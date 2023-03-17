@@ -11,3 +11,4 @@ boot:
 now we can initiate the partition with bash:
 
 boot: live init=/bin/bash
+error: unexpectedly disconnected from boot status daemon
