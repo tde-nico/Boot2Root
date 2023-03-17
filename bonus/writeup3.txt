@@ -8,3 +8,5 @@ pressing {TAB} we se the partitions:
 boot:
  live
 
+now we can initiate the partition with bash:
+
