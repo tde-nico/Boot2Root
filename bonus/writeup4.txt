@@ -1,3 +1,6 @@
 https://security.stackexchange.com/questions/263500/can-an-iso-file-be-harmful-if-opened-as-an-archive
 
 we will try to hack the iso.
+
+we try opening the iso with simple tools like winrar and as we can see there is a file named:
+
