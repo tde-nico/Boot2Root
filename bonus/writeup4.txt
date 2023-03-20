@@ -10,3 +10,4 @@ in this we can also find these two lines:
 adduser zaz
 646da671ca01bb5d84dbb5fb2238dc8e
 
+and from now on we can continue with the stesps of the writeup1
