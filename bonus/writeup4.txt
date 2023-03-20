@@ -7,3 +7,6 @@ filesystem.squashfs into the casper folder, so we can unsquash it too see if we 
 in the /root folder we find the .bash_history
 in this we can also find these two lines:
 
+adduser zaz
+646da671ca01bb5d84dbb5fb2238dc8e
+
