@@ -5,4 +5,5 @@ we will try to hack the iso.
 we try opening the iso with simple tools like winrar and as we can see there is a file named:
 filesystem.squashfs into the casper folder, so we can unsquash it too see if we can find something useful:
 in the /root folder we find the .bash_history
+in this we can also find these two lines:
 
