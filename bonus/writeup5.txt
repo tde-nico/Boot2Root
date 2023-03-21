@@ -1,2 +1,3 @@
 as we get the squirrel mail credentials we can:
 
+https://legalhackers.com/advisories/SquirrelMail-Exploit-Remote-Code-Exec-CVE-2017-7692-Vuln.html
