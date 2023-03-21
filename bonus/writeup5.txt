@@ -5,3 +5,5 @@ https://legalhackers.com/advisories/SquirrelMail-Exploit-Remote-Code-Exec-CVE-20
 we will use the vulnerability of Suirrel email,
 
 so we use the SquirrelMail_RCE_exploit.sh as explained in the docs and we get the reverse shell
+
+now we can proceed as we want (for example like writeup2.txt)
